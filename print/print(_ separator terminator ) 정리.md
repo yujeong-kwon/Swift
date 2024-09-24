@@ -4,7 +4,7 @@
 
 이번에 코테를 조금씩 공부하며 찾아보게 되었다
 
-![Untitled](첨부 이미지/Untitled.png)
+![Untitled](print(_%20separator%20terminator%20)%20103a317d019980a88fc0e10499402085/Untitled.png)
 
 - [ Parameters ]
     
@@ -23,7 +23,7 @@
     좀 더 파악해보기 위해 이것저것 활용해봤다
     
 
-![Untitled](첨부 이미지/Untitled%201.png)
+![Untitled](print(_%20separator%20terminator%20)%20103a317d019980a88fc0e10499402085/Untitled%201.png)
 
 seperator는 출력하는 **item 들 사이에 출력**하는 것,
 
